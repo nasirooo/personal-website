@@ -1,0 +1,40 @@
+h1{
+    font-size: 50px;
+  }
+.name{color:orangered;}
+p{
+    font-size: 15px;
+} 
+.half-width{
+    font-size: 50%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 5%;
+} 
+.half-width img{
+    width: 500px;
+    font-size: 20%;
+    height: 500px;
+}
+.top-banner{
+    background-image: url("header-bg.png");
+}
+section{
+    height: 500px;
+}
+.mid-banner{
+    background-image: url("adil.png");
+    
+
+}
+#id-1{
+    text-align:center;
+}
+
+.a{
+    width: 25%;
+    padding-left: 3%;
+}
+#a{
+    padding-left: 8%;
+}
